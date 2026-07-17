@@ -1,89 +1,65 @@
 ---
-layout: cv
-title: Isaac Newtons's CV
+layout: cv[cite: 1]
+title: Evan Ewing's CV[cite: 1, 2]
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Evan Ewing[cite: 2]
+Business Analytics Student & AI Engineer[cite: 2]
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+<a href="mailto:evanewing44@gmail.com">evanewing44@gmail.com</a>[cite: 2]
+| 801.888.7948[cite: 2]
+| <a href="https://www.linkedin.com/in/evanewing22b61832b/">LinkedIn Profile</a>[cite: 2]
+</div>[cite: 1]
 
+## Education[cite: 1, 2]
 
-## Currently
+`August 2024 - December 2028`[cite: 2]
+__Brigham Young University - Idaho__, Rexburg, Idaho[cite: 2]
 
-Standing on the shoulders of giants
+- Bachelor of Science in Business Analytics (GPA: 3.951, Recipient of BYUI Merit Scholarship)[cite: 2]
+- Minors: Finance, AI Engineering[cite: 2]
+- Selected Coursework: SQL, Spreadsheet Applications, Spreadsheet Analysis for Business, Small Business Management, Operations Management[cite: 2]
+- Academic Societies: Pre-Law, Speech and Debate, Professional Sales[cite: 2]
 
-### Specialized in
+## Experience[cite: 1, 2]
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`Aug 2024 - Present`[cite: 2]
+__Westhope Presbyterian Church__, Remote[cite: 2]
+*Video Editor*[cite: 2]
 
+- Managed and organized media library of 700+ audio and video files, ensuring efficient access and workflow optimization[cite: 2]
+- Edited 100+ videos in CapCut with clean audio, smooth transitions, and precise timing to boost quality[cite: 2]
+- Uploaded 40+ podcast episodes and videos (1+ hour each) to YouTube and company site to grow visibility[cite: 2]
 
-### Research interests
+`Nov 2021 - Jul 2022`[cite: 2]
+__Cedar Crest Tire__, Cedar Crest, NM[cite: 2]
+*Tire Technician and Driver*[cite: 2]
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Performed 33 monthly inventory checks to ensure accuracy of stock levels, identifying and fixing multiple discrepancies[cite: 2]
+- Collected over 7,000 tires from distribution centers by matching product numbers and sorted by size and brand in company basement[cite: 2]
+- Replaced and repaired tires manually on more than 500 garbage trucks with steel tire bars, D-Handle High Torque Impact Wrenches, and tire hammers[cite: 2]
 
+## Skills[cite: 1, 2]
 
-## Education
+- AI prompt engineering[cite: 2]
+- Editing Software[cite: 2]
+- Leadership[cite: 2]
+- Microsoft Excel[cite: 2]
+- Problem-solving[cite: 2]
+- Automobile/Machine Maintenance[cite: 2]
+- Attention to detail[cite: 2]
+- Sales and customer interaction[cite: 2]
+- Structured Query Language[cite: 2]
+- Organization[cite: 2]
 
-`1654-1660`
-__The King's School, Grantham.__
+## Achievements[cite: 1, 2]
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+- Developed custom AI, writes cover letters for job descriptions, matching relevant skills from user's career, usually requiring less than 2 revisions for each[cite: 2]
+- Designed custom AI, calculates effective kanban container size and quantity based on user's inputs of demand and item dimensions with 90% accuracy[cite: 2]
+- Won "The 800 Club" award for the Capsim manufacturing business simulator[cite: 2]
+- Developed comprehensive Excel utilizing VBA macros and lookup functions to streamline volunteer assignments for local church[cite: 2]
+- Earned MyEducator Microsoft Excel certificate[cite: 2]
+- Built SQL 10-table database containing info for 300+ digital products and python web application to insert and fetch data from it[cite: 2]
+- Planned business trips for owner of scholarship acquisition program startup business while on a student consultant team[cite: 2]
+- Lectured at 5 Speech and Debate society meetings to university students on public speaking/presentation skills[cite: 2]
